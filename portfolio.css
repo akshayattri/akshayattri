@@ -14,7 +14,7 @@ body {
 /* cover page section */
 .coverimg {
     height: 80vh;
-    background: url('/img/counters-bg.jpg');
+    background: url('img/counters-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@ body {
 .aboutme {
     margin-top: 5%;
     background-color:#f5f5f5;
-    background-image: url('/img/work-1.jpg');
+    background-image: url('img/work-1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -221,7 +221,7 @@ body {
 }
 /* contact section */
 .contact {
-    background-image: url('/img/expertise1.webp');
+    background-image: url('img/expertise1.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
